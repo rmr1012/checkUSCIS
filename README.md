@@ -12,9 +12,9 @@ BeautifulSoup 4
 python3 checkUSCIS.py [your recipt number]
 
 ## Example 
-<<< python3 checkUSCIS.py YSC1990011549
+<<< python3 checkUSCIS.py YSC199001xxxx
 
 >>>
-checking USCIS for Reciept: YSC1990011549
+checking USCIS for Reciept: YSC199001xxxx
 
-On January 8, 2019, the Post Office delivered your new card for Receipt Number YSC1990011349, to the address that you gave us.  The tracking number assigned is 9205590153708644569275.  You can use your tracking number at www.USPS.com in the Quick Tools Tracking section.  If you move, go to www.uscis.gov/addresschange to give us your new mailing address.
+On January x, 2019, the Post Office delivered your new card for Receipt Number YSC199001xxxx, to the address that you gave us.  The tracking number assigned is 9205590153xxxxxxxxx.  You can use your tracking number at www.USPS.com in the Quick Tools Tracking section.  If you move, go to www.uscis.gov/addresschange to give us your new mailing address.
