@@ -9,7 +9,7 @@ Happy hacking!
 BeautifulSoup 4
 
 ## Usage
-python3 checkUSCIS.py <your recipt number>
+python3 checkUSCIS.py [your recipt number]
 
 ## Example 
 <<< python3 checkUSCIS.py YSC1990011549
